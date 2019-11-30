@@ -24,10 +24,9 @@ Website - https://www.duolingo.com/
 
 Our goal is to help you Learn English speaking so you can speak English fluently.Improve your spoken English Free!
 
-Website - https://www.talkenglish.com/
+Youtube - https://www.youtube.com/watch?v=GfnDN4BciWM&list=PL6zKLAqTq5pdITaAgoB_mMuVbXL-qnJjf
 
-
-[![english](https://user-images.githubusercontent.com/41269164/69905456-b0026780-13d9-11ea-88ce-dbd4213f5604.PNG)](https://talkenglish.com)
+[![eng](https://user-images.githubusercontent.com/41269164/69905944-6158cb80-13e1-11ea-861c-007184fbb171.PNG)](https://www.evidyarthi.in/english/english-speaking)
 
 
 ## Sanskrit
