@@ -22,7 +22,7 @@ Website - https://www.duolingo.com/
 
 ## English
 
-Our goal is to help you Learn English speaking so you can speak English fluently.Improve your spoken English Free!
+A spoken language is a language produced by articulate sounds, as oppose to written language.Spoken english is english which is spoken by people,used in conversations.  
 
 Youtube - https://www.youtube.com/watch?v=GfnDN4BciWM&list=PL6zKLAqTq5pdITaAgoB_mMuVbXL-qnJjf
 
