@@ -8,6 +8,14 @@ This file contains resources to learn about Data Science and its sub fields.
 * Natural Language Processing 
 * Reinforcement Learning
 
+## Classical Machine Learning
+
+### Machine Learning by Cognitive Class
+
+This playlist contains 23 short videos. These videos will help to have a clear overview of various machine learning algorithms in a simple way. Ideal playlist to start your data science journey. These videos clearly explains simple and hard algorithms with non-complex animations and tables.
+
+Website - https://www.youtube.com/playlist?list=PL-XeOa5hMEYz7xMckkUL8w2EKzM3TDrON
+
 ## Deep Learning
 
 ### Neural Networks by 3Blue1Brown
