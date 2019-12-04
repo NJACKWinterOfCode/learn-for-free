@@ -32,7 +32,7 @@ This project aims to contain free learning resources for all topics you can thin
 	* [Copywriting](marketing.md#copywriting)
 	* [Digital Marketing](marketing.md#digital-marketing)
 	* [Email marketing](marketing.md#email-marketing)
-	* Facebook Ads
+	* [Facebook Ads](marketing.md#facebook-ads)
 * [Programming](programming.md)
 	* [Android Development](programming.md#android-development)
 	* [Web Development](programming.md#web-development)
