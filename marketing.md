@@ -59,10 +59,10 @@ Website - https://www.tutorialspoint.com/email_marketing/
 
 ## Facebook Ads
 
-This is a free tutorial designed for those who want to learn how you can be an expert doing Facebook Advertising using this Facebook Ads Ninja Masterclass Mini-Course!.In this ultimate introductory course, you will know and understand all the vocabulary used on Facebook Advertising to change your life and change your business
+This is a free tutorial designed for those who want to learn how you can be an expert doing Facebook Advertising using this Facebook Ads.
 
 ### The Ultimate Facebook Ads MASTERY Course
 
 website - https://www.udemy.com/
 
-[![image](https://user-images.githubusercontent.com/41269164/70126193-85950080-169e-11ea-98fe-df169db33c91.png)](https://www.udemy.com/course/facebook-ads-ninja-masterclass-mini-course/learn/lecture/16706324?start=2505#overview)
+[![Screenshot_20191204_145732](https://user-images.githubusercontent.com/41269164/70131081-b463a480-16a7-11ea-9c55-08f4d554d78a.jpg)](https://www.udemy.com/course/facebook-ads-ninja-masterclass-mini-course/learn/lecture/16706324?start=2505#overview)
