@@ -136,6 +136,11 @@ Website - https://www.youtube.com/watch?v=QVX-etwgvJ8&list=PLXmMXHVSvS-DQfOsQdXk
 [![Pretty-Printed-django-tutorials](https://user-images.githubusercontent.com/42115530/66419024-f0201c00-ea20-11e9-9aef-0e7c8fc55820.PNG)](https://www.youtube.com/watch?v=QVX-etwgvJ8&list=PLXmMXHVSvS-DQfOsQdXkzEZyD0Vei7PKf)
 
 
+### Django in 8 hours by Clever Programmer
+
+This is a django crash course in which you learn django from scratch. This tutorial is easy to understand and implement. In this you will also learn how to make a django project.
+
+
 ## Python
 
 ### Python for Beginners by Mosh Hamedani 
