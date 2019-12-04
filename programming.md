@@ -140,6 +140,10 @@ Website - https://www.youtube.com/watch?v=QVX-etwgvJ8&list=PLXmMXHVSvS-DQfOsQdXk
 
 This is a django crash course in which you learn django from scratch. This tutorial is easy to understand and implement. In this you will also learn how to make a django project.
 
+Website - https://www.youtube.com/watch?v=JT80XhYJdBw&t=38s
+
+[https://user-images.githubusercontent.com/54139847/70143260-1a105a80-16c1-11ea-9997-48b7081b3652.png](https://www.youtube.com/watch?v=JT80XhYJdBw&t=38s)
+
 
 ## Python
 
