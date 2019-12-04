@@ -4,7 +4,7 @@ This file contains resources to learn languages of the world. Best use <kbd>Cmd<
 
 * [Multi-language resources](#multi)
 * [English](#english)
-* Japanese
+* [Japanese](#japanese)
 * [Sanskrit](#sanskrit)
 
 
