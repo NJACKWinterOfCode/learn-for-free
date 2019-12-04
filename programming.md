@@ -146,6 +146,16 @@ Website - https://www.youtube.com/watch?v=_uQrJ0TkZlc
 
 [![Python for Beginners by Mosh Hamedani](https://user-images.githubusercontent.com/51238282/66454748-5e4afa00-ea86-11e9-92d6-feca19008f52.png)](https://www.youtube.com/watch?v=_uQrJ0TkZlc)
 
+
+### Python for Beginners by Harshit Vashistha
+
+Those who are selecting python as their first language these tutorials are very useful for them.This is a good resource for beginners in programming world because 
+all the programming concepts are dicussed in these tutorials in a very simmple way.
+
+Website - https://www.youtube.com/watch?v=RAwntanK4wQ&list=PLwgFb6VsUj_lQTpQKDtLXKXElQychT_2j
+
+[https://user-images.githubusercontent.com/54139847/70144564-2cd85e80-16c4-11ea-8be7-fdb013c5ecb2.png](https://www.youtube.com/watch?v=RAwntanK4wQ&list=PLwgFb6VsUj_lQTpQKDtLXKXElQychT_2j)
+
 ## Ruby
 
 ### Ruby in 20 minutes
