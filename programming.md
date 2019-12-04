@@ -142,7 +142,7 @@ This is a django crash course in which you learn django from scratch. This tutor
 
 Website - https://www.youtube.com/watch?v=JT80XhYJdBw&t=38s
 
-[https://user-images.githubusercontent.com/54139847/70143260-1a105a80-16c1-11ea-9997-48b7081b3652.png](https://www.youtube.com/watch?v=JT80XhYJdBw&t=38s)
+[![django](https://user-images.githubusercontent.com/54139847/70167162-22ca5600-16ec-11ea-806d-9e6eb2d90c9a.png)](https://www.youtube.com/watch?v=JT80XhYJdBw&t=38s)
 
 
 ## Python
@@ -163,7 +163,7 @@ all the programming concepts are dicussed in these tutorials in a very simmple w
 
 Website - https://www.youtube.com/watch?v=RAwntanK4wQ&list=PLwgFb6VsUj_lQTpQKDtLXKXElQychT_2j
 
-[https://user-images.githubusercontent.com/54139847/70144564-2cd85e80-16c4-11ea-8be7-fdb013c5ecb2.png](https://www.youtube.com/watch?v=RAwntanK4wQ&list=PLwgFb6VsUj_lQTpQKDtLXKXElQychT_2j)
+[![python](https://user-images.githubusercontent.com/54139847/70166841-8902a900-16eb-11ea-8bd2-4713a39f93c2.png)](https://www.youtube.com/watch?v=RAwntanK4wQ&list=PLwgFb6VsUj_lQTpQKDtLXKXElQychT_2j)
 
 ## Ruby
 
