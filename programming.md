@@ -19,6 +19,7 @@ A Goal-Oriented listing has higher priority so if a resource falls in both gener
 * [Django](#django)
 * [Python](#python)
 * [Ruby](#ruby)
+* [Flask](#flask)
 
 
 ## Android Development
@@ -174,5 +175,12 @@ Website - https://www.ruby-lang.org/en/documentation/quickstart/
 
 [![Ruby in 20 minutes](https://user-images.githubusercontent.com/42384542/69919084-2b7a1c80-149f-11ea-9d2a-e29af91feb71.png)](https://www.ruby-lang.org/en/documentation/quickstart/)
 
+## Flask
+### The Flask Mega Tutorial
+A very good informative and easy to understand blog on Flask for beginners to get started with this framework.
+
+Website- https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world
+
+![flask](https://user-images.githubusercontent.com/43048913/70225445-0de5d500-1775-11ea-81ee-f0dfcf3f94ea.png)
 
 
