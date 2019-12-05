@@ -181,6 +181,6 @@ A very good informative and easy to understand blog on Flask for beginners to ge
 
 Website- https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world
 
-![flask](https://user-images.githubusercontent.com/43048913/70225445-0de5d500-1775-11ea-81ee-f0dfcf3f94ea.png)
+[![flask](https://user-images.githubusercontent.com/43048913/70225445-0de5d500-1775-11ea-81ee-f0dfcf3f94ea.png)](https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world)
 
 
