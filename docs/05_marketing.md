@@ -1,11 +1,15 @@
-# Marketing
+---
+layout: page
+title: Marketing
+permalink: /marketing/
+---
 
 This files contains resources for marketing. The [Digital Marketing](#digital-marketing) section contains courses that are too general to be included in specific sections like Email Marketing or Facebook Ads.
 
 * [Content Marketing](#content-marketing)
 * [Copywriting](#copywriting)
 * [Digital Marketing](#digital-marketing)
-* [Email marketing](#email-marketing)
+* Email marketing
 * Facebook Ads
 
 
@@ -44,14 +48,3 @@ A course designed by Google to help you understand the basic concepts of Digital
 Website - https://learndigital.withgoogle.com/digitalgarage/course/digital-marketing
 
 [![Fundamentals of Digital Marketing](https://user-images.githubusercontent.com/28767301/66247545-55cb8a00-e73b-11e9-9768-bc4ee3f2379a.png)](https://learndigital.withgoogle.com/digitalgarage/course/digital-marketing)
-
-
-## Email marketing
-
-This tutorial has been designed for all those readers, who want to learn the basics of Email Marketing. It will also help the readers to use emails as an effective tool to advertise their products and services on different online platforms.
-
-### Tutorialspoint Course
-
-Website - https://www.tutorialspoint.com/email_marketing/
-
-[![emailmarket](https://user-images.githubusercontent.com/41269164/70084728-dcfe8680-1634-11ea-99b7-5399d262140f.PNG)](https://www.tutorialspoint.com/email_marketing/index.htm)

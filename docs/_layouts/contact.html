@@ -1,0 +1,26 @@
+---
+layout: default
+---
+
+<article class="post">
+
+      <header class="post-header">
+        <h1 class="post-title">{{ page.title | escape }}</h1>
+        <p>You can contact me on Twitter or you can send me a message from here.</p>
+      </header>
+      
+      <div class="post-content">
+        <form action="https://formspree.io/shreyateeza@gmail.com" method="POST">
+          <ul>
+          <li><label for="name">Name:</label>
+          <input type="text" name="name"><br></li>
+          <li><label for="email">Email Address:</label>
+          <input type="email" name="_replyto"><br></li>
+          <li><label for="message">Message:</label><br>
+          <textarea name="message" cols="30" rows="10"></textarea><br></li>
+          <input type="submit" value="Send">
+          </ul>
+        </form>
+      </div>
+      
+  </article>

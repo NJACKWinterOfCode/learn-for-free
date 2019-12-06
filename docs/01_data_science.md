@@ -1,25 +1,16 @@
-# Data Science
+---
+layout: page
+title: Data Science
+permalink: /data-science/
+---
 
 This file contains resources to learn about Data Science and its sub fields.
 
 * Classical Machine Learning
-* [Computer Vision](#computer-vision)
+* Computer Vision
 * [Deep Learning](#deep-learning)
 * Natural Language Processing 
 * Reinforcement Learning
-
-## Computer Vision
-
-### Computer Vision with OpenCV Library Using Python
-
-This is a free tutorial designed for those who want to learn how to use the OpenCV library, make image face detection programs and learn how to use different tools of image filtering with the OpenCV library.
-
-Website - https://www.udemy.com/course/pythoncv/
-
-[![opencv](https://user-images.githubusercontent.com/41269164/69989070-dc98b980-1568-11ea-93e2-4b83d889a559.PNG)](https://www.udemy.com/course/pythoncv/)
-
-
-
 
 ## Deep Learning
 
