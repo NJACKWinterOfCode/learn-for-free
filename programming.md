@@ -50,6 +50,13 @@ Website - https://www.theodinproject.com/courses/web-development-101
 
 ![Screenshot (1067)](https://user-images.githubusercontent.com/52423075/70233037-c87cd400-1783-11ea-997f-67278e14ef56.png)
 
+### The Essential Web Developer Course => Upskill
+
+The course begins with a deep dive into full-stack web development - you'll start by building a blogging platform to orient you with how web apps work. Then, you'll learn commonly used syntax for web languages like HTML5 and CSS3.
+
+Website - https://upskillcourses.com/courses/essential-web-developer-course
+
+![Screenshot (1069)](https://user-images.githubusercontent.com/52423075/70330363-6dbaa980-1863-11ea-87a3-64c926355548.png)
 
 ### Intro to HTML and CSS by Udacity
 
