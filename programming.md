@@ -56,7 +56,7 @@ The course begins with a deep dive into full-stack web development - you'll star
 
 Website - https://upskillcourses.com/courses/essential-web-developer-course
 
-![Screenshot (1069)](https://user-images.githubusercontent.com/52423075/70330363-6dbaa980-1863-11ea-87a3-64c926355548.png)
+![Essential Web Developer Course => Upskill](https://user-images.githubusercontent.com/52423075/70330363-6dbaa980-1863-11ea-87a3-64c926355548.png)
 
 ### Intro to HTML and CSS by Udacity
 
