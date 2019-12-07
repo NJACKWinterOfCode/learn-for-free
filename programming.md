@@ -48,7 +48,7 @@ A hands-on introduction to all of the essential tools you'll need to build real,
 
 Website - https://www.theodinproject.com/courses/web-development-101
 
-![Screenshot (1067)](https://user-images.githubusercontent.com/52423075/70233037-c87cd400-1783-11ea-997f-67278e14ef56.png)
+[![Screenshot (1067)](https://user-images.githubusercontent.com/52423075/70233037-c87cd400-1783-11ea-997f-67278e14ef56.png)] (https://www.theodinproject.com/courses/web-development-101)
 
 ### The Essential Web Developer Course => Upskill
 
@@ -56,7 +56,8 @@ The course begins with a deep dive into full-stack web development - you'll star
 
 Website - https://upskillcourses.com/courses/essential-web-developer-course
 
-![Essential Web Developer Course => Upskill](https://user-images.githubusercontent.com/52423075/70330363-6dbaa980-1863-11ea-87a3-64c926355548.png)
+[![Essential Web Developer Course => Upskill](https://user-images.githubusercontent.com/52423075/70330363-6dbaa980-1863-11ea-87a3-64c926355548.png)] (https://upskillcourses.com/courses/essential-web-developer-course)
+
 
 ### Intro to HTML and CSS by Udacity
 
