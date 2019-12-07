@@ -10,7 +10,7 @@ This file contains resources to learn digital security skills and concepts.
 
 ### Hack This Site
 
-Hack This Time is a training ground for hackers to hone and test their hacking abilities. It's suitable for beginners with no experience of hacking.
+Hack This Site is a training ground for hackers to hone and test their hacking abilities. It's suitable for beginners with no experience of hacking.
 
 Website - https://www.hackthissite.org/
 
