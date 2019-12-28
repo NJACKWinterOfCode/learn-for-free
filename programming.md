@@ -77,9 +77,9 @@ Website - https://www.w3schools.com/
 
 [![w3schools](https://user-images.githubusercontent.com/43781668/70112576-c0397180-167b-11ea-9434-bae0cd03e539.jpg)](https://www.w3schools.com/)
 
-##Basics
+## Basics
 
-###Intro to Computer Science - Harvard's CS50
+### Intro to Computer Science - Harvard's CS50
 
 Most popular CS course all over the World. It introduces you with the basics of computational through languages like C, Python and builds up a great base for further understanding of topics like DataStructures, Algorithms and Web development.
 
