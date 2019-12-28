@@ -32,6 +32,7 @@ This project aims to contain free learning resources for all topics you can thin
 	* Email marketing
 	* Facebook Ads
 * [Programming](programming.md)
+    * [Basics](programming.md#basics)
 	* [Android Development](programming.md#android-development)
 	* [Web Development](programming.md#web-development)
 	* [Java](programming.md#java)

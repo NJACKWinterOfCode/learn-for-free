@@ -18,6 +18,7 @@ A Goal-Oriented listing has higher priority so if a resource falls in both gener
 
 **General Purpose**
 
+* [Basics](#basics)
 * [Java](#java)
 * [JavaScript](#javascript)
 * [Django](#django)
@@ -61,6 +62,16 @@ HTML & CSS seems hard (But it doesn’t have to be). This is a friendly web deve
 Website - https://internetingishard.com/html-and-css/
 
 [![html and css by interneting-is-hard](https://user-images.githubusercontent.com/42115530/66373837-347ece00-e9c7-11e9-8293-b2d54a4dc66c.PNG)](https://internetingishard.com/html-and-css/)
+
+##Basics
+
+###Intro to Computer Science - Harvard's CS50
+
+Most popular CS course all over the World. It introduces you with the basics of computational through languages like C, Python and builds up a great base for further understanding of topics like DataStructures, Algorithms and Web development.
+
+Website -  https://www.youtube.com/playlist?list=PLWKjhJtqVAbmGw5fN5BQlwuug-8bDmabi
+
+![Introduction to Computer Science - Harvard's CS50](https://user-images.githubusercontent.com/53019228/71548483-e0a7d380-297c-11ea-93ba-dcb48d3ffb58.png)
 
 
 ## Java

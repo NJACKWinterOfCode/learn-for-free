@@ -14,6 +14,7 @@ A Goal-Oriented listing has higher priority so if a resource falls in both gener
 
 **General Purpose**
 
+* [Basics](#basics)
 * [Java](#java)
 * [JavaScript](#javascript)
 * [Django](#django)
@@ -75,6 +76,16 @@ W3Schools is an educational website for learning web technologies online. Conten
 Website - https://www.w3schools.com/
 
 [![w3schools](https://user-images.githubusercontent.com/43781668/70112576-c0397180-167b-11ea-9434-bae0cd03e539.jpg)](https://www.w3schools.com/)
+
+##Basics
+
+###Intro to Computer Science - Harvard's CS50
+
+Most popular CS course all over the World. It introduces you with the basics of computational through languages like C, Python and builds up a great base for further understanding of topics like DataStructures, Algorithms and Web development.
+
+Website -  https://www.youtube.com/playlist?list=PLWKjhJtqVAbmGw5fN5BQlwuug-8bDmabi
+
+![Introduction to Computer Science - Harvard's CS50](https://user-images.githubusercontent.com/53019228/71548483-e0a7d380-297c-11ea-93ba-dcb48d3ffb58.png)
 
 ## Java
 
