@@ -63,9 +63,9 @@ Website - https://internetingishard.com/html-and-css/
 
 [![html and css by interneting-is-hard](https://user-images.githubusercontent.com/42115530/66373837-347ece00-e9c7-11e9-8293-b2d54a4dc66c.PNG)](https://internetingishard.com/html-and-css/)
 
-##Basics
+## Basics
 
-###Intro to Computer Science - Harvard's CS50
+### Intro to Computer Science - Harvard's CS50
 
 Most popular CS course all over the World. It introduces you with the basics of computational through languages like C, Python and builds up a great base for further understanding of topics like DataStructures, Algorithms and Web development.
 
