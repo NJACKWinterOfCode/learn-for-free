@@ -206,4 +206,4 @@ Most popular CS course all over the World. It introduces you with the basics of 
 
 Website -  https://www.youtube.com/playlist?list=PLWKjhJtqVAbmGw5fN5BQlwuug-8bDmabi
 
-![Introduction to Computer Science - Harvard's CS50](https://user-images.githubusercontent.com/53019228/71548483-e0a7d380-297c-11ea-93ba-dcb48d3ffb58.png)(https://www.youtube.com/playlist?list=PLWKjhJtqVAbmGw5fN5BQlwuug-8bDmabi)
+[![Introduction to Computer Science - Harvard's CS50](https://user-images.githubusercontent.com/53019228/71554899-61cd9c00-2a4b-11ea-9aee-340827f11586.png)](https://www.youtube.com/playlist?list=PLWKjhJtqVAbmGw5fN5BQlwuug-8bDmabi)
