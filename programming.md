@@ -236,8 +236,6 @@ Website - https://www.ruby-lang.org/en/documentation/quickstart/
 
 [![Ruby in 20 minutes](https://user-images.githubusercontent.com/42384542/69919084-2b7a1c80-149f-11ea-9d2a-e29af91feb71.png)](https://www.ruby-lang.org/en/documentation/quickstart/)
 
-
-
 ## DATA STRUCTURES
 
 ### Algorithms and Data Structures
