@@ -250,9 +250,11 @@ Website - https://www.edx.org/course/algorithms-and-data-structures
 
 [![Algorithms and Data Structures](https://user-images.githubusercontent.com/46001986/70781945-46586500-1dac-11ea-8f69-6f2c4f0a3447.png)](https://www.edx.org/course/algorithms-and-data-structures)
 
+
 ## C++
 
 ### C++ For Programmers
+
 A free 12 hour course provided by Udacity to get started with c++.It helps in understandig basics of language in a very
 easy manner.
 
